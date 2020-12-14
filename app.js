@@ -1,5 +1,5 @@
-const yourDate = new Date("2020-11-27T02:10:26"),
-music = ['Co Chac Yeu La Day'];
+const yourDate = new Date("2017-08-25T00:00:00"),
+music = ['Co Chac Yeu La Day','Tren Tinh Ban Duoi Tinh Yeu'];
 
 document.addEventListener('DOMContentLoaded', function(){
       var rootTime = document.querySelector("time");
